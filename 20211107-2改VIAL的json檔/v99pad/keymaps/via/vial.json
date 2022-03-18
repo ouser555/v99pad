@@ -1,0 +1,17 @@
+{
+  "name": "v99pad",
+    "vendorId": "0x1917",
+    "productId": "0x0001",
+    "lighting": "qmk_rgblight",
+    "matrix": { "rows": 7, "cols": 5 },
+    "layouts": {
+  "keymap": [
+    [{"x":1.5,"w":0.5},"0,1\n\n\n\n\n\n\n\n\nQ","2,1\n\n\n\n\n\n\n\n\nZ",{"w":0.5},"1,1\n\n\n\n\n\n\n\n\nA",{"x":0.5,"w":0.5},"0,2\n\n\n\n\n\n\n\n\nW","2,2\n\n\n\n\n\n\n\n\nX",{"w":0.5},"1,2\n\n\n\n\n\n\n\n\nS",{"x":0.5,"w":0.5},"0,3\n\n\n\n\n\n\n\n\nE","2,3\n\n\n\n\n\n\n\n\nC",{"w":0.5},"1,3\n\n\n\n\n\n\n\n\nD",{"x":0.5,"w":0.5},"0,4\n\n\n\n\n\n\n\n\nR","2,4\n\n\n\n\n\n\n\n\nV",{"w":0.5},"1,4\n\n\n\n\n\n\n\n\nF"],
+[{"y":1,"x":3.75},"3,0\n\n\n\n\n\n\n\n\nShift","3,1\n\n\n\n\n\n\n\n\nZ","3,2\n\n\n\n\n\n\n\n\nX","3,3\n\n\n\n\n\n\n\n\nC","3,4\n\n\n\n\n\n\n\n\nV"],
+[{"x":3.75},"4,0\n\n\n\n\n\n\n\n\nShift","4,1\n\n\n\n\n\n\n\n\nZ","4,2\n\n\n\n\n\n\n\n\nX","4,3\n\n\n\n\n\n\n\n\nC","4,4\n\n\n\n\n\n\n\n\nV"],
+[{"x":3.75},"5,0\n\n\n\n\n\n\n\n\nShift","5,1\n\n\n\n\n\n\n\n\nZ","5,2\n\n\n\n\n\n\n\n\nX","5,3\n\n\n\n\n\n\n\n\nC","5,4\n\n\n\n\n\n\n\n\nV"],
+[{"x":1.5},"6,0",{"x":2.25},"6,1\n\n\n\n\n\n\n\n\nCtrl","6,2\n\n\n\n\n\n\n\n\nAlt","6,3\n\n\n\n\n\n\n\n\nSuper","6,4\n\n\n\n\n\n\n\n\n&dArr;"],
+[{"x":0.5},"0,0\n\n\n\n\n\n\n\n\nTab","1,0\n\n\n\n\n\n\n\n\nEsc","2,0\n\n\n\n\n\n\n\n\nShift"]
+]
+}
+}
